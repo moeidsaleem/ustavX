@@ -21,6 +21,7 @@ export const organizationSchema = pgTable(
   'organization',
   {
     id: text('id').primaryKey(),
+    defaultCountry: text('default_country'),
     stripeCustomerId: text('stripe_customer_id'),
     stripeSubscriptionId: text('stripe_subscription_id'),
     stripeSubscriptionPriceId: text('stripe_subscription_price_id'),
@@ -49,6 +50,19 @@ export const todoSchema = pgTable('todo', {
   ownerId: text('owner_id').notNull(),
   title: text('title').notNull(),
   message: text('message').notNull(),
+  updatedAt: timestamp('updated_at', { mode: 'date' })
+    .defaultNow()
+    .$onUpdate(() => new Date())
+    .notNull(),
+  createdAt: timestamp('created_at', { mode: 'date' }).defaultNow().notNull(),
+});
+
+export const chatHistorySchema = pgTable('chat_history', {
+  id: serial('id').primaryKey(),
+  userId: text('user_id').notNull(),
+  message: text('message').notNull(),
+  role: text('role').notNull(), // 'user' or 'assistant'
+  metadata: text('metadata'), // For storing any additional data
   updatedAt: timestamp('updated_at', { mode: 'date' })
     .defaultNow()
     .$onUpdate(() => new Date())

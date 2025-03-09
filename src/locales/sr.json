@@ -1,0 +1,166 @@
+{
+  "Index": {
+    "meta_title": "Ustav AI - Učinite pravne savete dostupnim kroz ustavnu veštačku inteligenciju",
+    "meta_description": "Pristupite stručnim pravnim savetima uz pomoć napredne veštačke inteligencije. Razumevanje vaših prava i pravnih mogućnosti nikada nije bilo lakše."
+  },
+  "Navbar": {
+    "sign_in": "Prijava",
+    "sign_up": "Registracija",
+    "product": "Usluge",
+    "docs": "Resursi",
+    "blog": "Pravne Novosti",
+    "community": "Zajednica",
+    "company": "O Nama"
+  },
+  "Hero": {
+    "follow_twitter": "Pratite @UstavAI",
+    "title": "Činimo <important>pravne savete</important> dostupnim svima kroz veštačku inteligenciju",
+    "description": "Dobijte trenutne, pouzdane pravne savete uz pomoć ustavne veštačke inteligencije. Razumevanje vaših prava i snalaženje u pravnim složenostima nikada nije bilo jednostavnije.",
+    "primary_button": "Zatražite Pravnu Pomoć",
+    "secondary_button": "Saznajte Više"
+  },
+  "Sponsors": {
+    "title": "Partneri od Poverenja"
+  },
+  "Features": {
+    "section_subtitle": "Funkcije",
+    "section_title": "Vaš AI Pravni Asistent",
+    "section_description": "Otkrijte kako Ustav AI revolucioniše pravnu pomoć naprednom tehnologijom i stručnim znanjem.",
+    "feature1_title": "24/7 Pravno Savetovanje",
+    "feature2_title": "Ustavna Analiza",
+    "feature3_title": "Pregled Dokumenata",
+    "feature4_title": "Istraživanje Slučajeva",
+    "feature5_title": "Pravni Obrasci",
+    "feature6_title": "Višejezična Podrška",
+    "feature_description": "Pristupite sveobuhvatnoj pravnoj pomoći uz naprednu AI tehnologiju, osiguravajući tačne i pravovremene savete za vaše pravne potrebe."
+  },
+  "Pricing": {
+    "section_subtitle": "Planovi",
+    "section_title": "Pravna Pomoć za Svakoga",
+    "section_description": "Izaberite savršen plan za vaše pravne potrebe, od individualnih konsultacija do sveobuhvatnih poslovnih rešenja.",
+    "button_text": "Započnite"
+  },
+  "PricingPlan": {
+    "free_plan_name": "Osnovni",
+    "premium_plan_name": "Profesionalni",
+    "enterprise_plan_name": "Poslovni",
+    "free_plan_description": "Za pojedinačne pravne upite",
+    "premium_plan_description": "Za kontinuiranu pravnu podršku",
+    "enterprise_plan_description": "Za organizacije",
+    "feature_team_member": "{number} Članova Tima",
+    "feature_website": "{number} Mesečnih Konsultacija",
+    "feature_storage": "{number} GB Skladišta Dokumenata",
+    "feature_transfer": "{number} Pregleda Dokumenata",
+    "feature_email_support": "Prioritetna Podrška",
+    "plan_interval_month": "mesec",
+    "plan_interval_year": "godina",
+    "next_renew_date": "Vaša pretplata se obnavlja {date}"
+  },
+  "FAQ": {
+    "question": "Koliko su precizni pravni saveti zasnovani na veštačkoj inteligenciji?",
+    "answer": "Ustav AI kombinuje naprednu ustavnu veštačku inteligenciju sa obimnim pravnim bazama podataka kako bi pružio vrlo precizne smernice. Međutim, iako naša veštačka inteligencija nudi pouzdanu početnu pravnu analizu, preporučujemo konsultacije sa pravnim stručnjakom za složene slučajeve ili konačne odluke."
+  },
+  "CTA": {
+    "title": "Spremni da razumete svoja pravna prava?",
+    "description": "Pridružite se hiljadama koji su već pojednostavili svoje pravno putovanje sa Ustav AI-om.",
+    "button_text": "Započnite"
+  },
+  "Footer": {
+    "product": "Usluge",
+    "docs": "Resursi",
+    "blog": "Pravne Novosti",
+    "community": "Zajednica",
+    "company": "O Nama",
+    "terms_of_service": "Uslovi Korišćenja",
+    "privacy_policy": "Politika Privatnosti",
+    "designed_by": "Pokreće <author>Ustav AI</author>"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "Nemate dozvole za izvršenje ove radnje"
+  },
+  "SignIn": {
+    "meta_title": "Prijava na Ustav AI",
+    "meta_description": "Pristupite svojoj personalizovanoj kontrolnoj tabli za pravnu pomoć."
+  },
+  "SignUp": {
+    "meta_title": "Pridružite se Ustav AI-u",
+    "meta_description": "Započnite svoje putovanje ka pojednostavljenoj pravnoj pomoći danas."
+  },
+  "DashboardLayout": {
+    "home": "Početna",
+    "todos": "Slučajevi",
+    "members": "Tim",
+    "billing": "Naplata",
+    "settings": "Podešavanja"
+  },
+  "Dashboard": {
+    "meta_title": "Ustav AI Kontrolna Tabla",
+    "meta_description": "Upravljajte svojim pravnim upitima i dokumentima na jednom mestu."
+  },
+  "DashboardIndex": {
+    "title_bar": "Pravna Kontrolna Tabla",
+    "title_bar_description": "Dobrodošli u vaš centar za pravnu pomoć",
+    "message_state_title": "Započnimo",
+    "message_state_description": "Počnite kreiranjem svog prvog pravnog upita ili pregledanjem naših resursa",
+    "message_state_button": "Novi Upit",
+    "message_state_alternative": "Trebate pomoć? Pogledajte naš <url>sveobuhvatni vodič</url>."
+  },
+  "UserProfile": {
+    "title_bar": "Profil",
+    "title_bar_description": "Upravljajte svojim nalogom i podešavanjima"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Podešavanja Organizacije",
+    "title_bar_description": "Upravljajte pravnim uslugama vaše organizacije"
+  },
+  "Billing": {
+    "title_bar": "Naplata",
+    "title_bar_description": "Upravljajte svojom pretplatom i plaćanjima",
+    "current_section_title": "Trenutni Plan",
+    "current_section_description": "Pregledajte i izmenite svoj plan pravnih usluga",
+    "manage_subscription_button": "Upravljanje Pretplatom"
+  },
+  "BillingOptions": {
+    "current_plan": "Trenutni Plan",
+    "upgrade_plan": "Nadogradnja"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Potvrda Plaćanja",
+    "message_state_title": "Plaćanje uspešno",
+    "message_state_description": "Hvala što ste izabrali Ustav AI za vaše pravne potrebe.",
+    "message_state_button": "Povratak na Naplatu"
+  },
+  "DataTable": {
+    "no_results": "Nema pronađenih rezultata."
+  },
+  "Todos": {
+    "title_bar": "Pravni Slučajevi",
+    "title_bar_description": "Upravljajte svojim pravnim upitima i slučajevima",
+    "add_todo_button": "Novi Slučaj"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Otvori meni",
+    "edit": "Izmeni",
+    "delete": "Obriši",
+    "title_header": "Naslov Slučaja",
+    "message_header": "Opis",
+    "created_at_header": "Kreirano"
+  },
+  "AddTodo": {
+    "title_bar": "Novi Slučaj",
+    "add_todo_section_title": "Kreirajte novi pravni upit",
+    "add_todo_section_description": "Opišite vašu pravnu situaciju ili pitanje"
+  },
+  "EditTodo": {
+    "title_bar": "Izmena slučaja",
+    "edit_todo_section_title": "Ažurirajte detalje slučaja",
+    "edit_todo_section_description": "Izmenite detalje vašeg pravnog upita"
+  },
+  "TodoForm": {
+    "title_label": "Naslov Slučaja",
+    "title_description": "Unesite kratak naslov za vaš pravni upit.",
+    "message_title": "Opis",
+    "message_description": "Pružite detaljne informacije o vašoj pravnoj situaciji.",
+    "submit_button": "Pošalji"
+  }
+}

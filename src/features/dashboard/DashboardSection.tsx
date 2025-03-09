@@ -9,6 +9,8 @@ export const DashboardSection = (props: {
 
       <div className="mb-4 text-sm font-medium text-muted-foreground">
         {props.description}
+        {' '}
+        xx
       </div>
 
       {props.children}

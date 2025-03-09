@@ -4,8 +4,8 @@ import { StickyBanner } from '@/features/landing/StickyBanner';
 
 export const DemoBanner = () => (
   <StickyBanner>
-    Live Demo of SaaS Boilerplate -
+    Explore UstavAI -
     {' '}
-    <Link href="/sign-up">Explore the User Dashboard</Link>
+    <Link href="/sign-up">Explore the Legal Dashboard</Link>
   </StickyBanner>
 );
